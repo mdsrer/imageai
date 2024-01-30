@@ -1,8 +1,9 @@
 streamlit==1.10.0
-diffusers==0.4.0
+diffusers
 torch
-transformers==4.15.0
-matplotlib==3.4.3
-opencv-python==4.5.3.56
-pillow==8.2.0
+transformers
+matplotlib
+opencv-python
+pillow
 transformers-interpret
+altair==4.1.0
