@@ -54,5 +54,5 @@ def main():
 
         st.image([image_1, image_2], caption=["Model 1 Image", "Model 2 Image"], use_column_width=True)
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
