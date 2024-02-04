@@ -1,9 +1,4 @@
-streamlit==1.10.0
+streamlit
+Pillow
 diffusers
 torch
-transformers
-matplotlib
-opencv-python
-pillow
-transformers-interpret
-altair==4.1.0
